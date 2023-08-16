@@ -7,5 +7,7 @@ the code will utilize plotly to visualize the stock data in chart format.
 
 Before running this project, please make sure you have csv files and json files downloaded in the same folder as this python file. 
 
+Additionally, download DB browser for SQLite to see the data in the database.
+
 Simply run this project and it will show a chart using Plotly. 
 
